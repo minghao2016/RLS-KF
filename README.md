@@ -2,6 +2,7 @@ The package includes the R source code of drug-target interaction prediction alg
 and Kernel Fusion [3] technique.
 
 How To Run:
+
 (1) Download benchmark data sets from http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/ [4].
   
   Total 12 files:
