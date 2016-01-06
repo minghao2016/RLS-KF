@@ -1,7 +1,7 @@
 # The algorithm (RLS-KF) [1] combines the NII [2] and KF [3] technique to perform drug-target-interaction (DTI) prediction.
 # [1] M Hao, et al., Analytica Chimica Acta (submit)
-# [2] JP Mei, et. al. Bioinformatics 29 (2013) 238-245.
-# [3] B Wang, et. al. Nat. Methods 11 (2014) 333-337.
+# [2] JP Mei, et. al., Bioinformatics 29 (2013) 238-245.
+# [3] B Wang, et. al., Nat. Methods 11 (2014) 333-337.
 
 # Main function
 RLS_KF <- function(
