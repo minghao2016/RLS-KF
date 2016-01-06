@@ -1,6 +1,6 @@
 # demo for RLS-KF algorithm of Drug-Target-Interaction (DTI) prediction
 
-setwd("c:/users/kevin/Desktop/RLS-KF/") # set to your dir including required files
+#setwd("To Your Directory Including All Required Files")
 
 rm(list = ls())
 
