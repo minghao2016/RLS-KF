@@ -15,7 +15,7 @@ How To Run:
 
 (3) Install required packages.
 
-(4) setwd("dir including source codes") in the 'demo-RLS_KF.R' file.
+(4) setwd("dir including source codes").
 
 (5) source("demo-RLS_KF.R") 
  
