@@ -4,7 +4,7 @@ Fast version of Kernel Fusion (KF) algorithm based on the SNFtool package
 by Wang et al.[1] using Rcpp and RcppArmadillo packages developed by 
 Dirk Eddelbuettel and co-workers.
 
-B Wang, et. al. Nat. Methods 11 (2014) 333-337.
+[1] B Wang, et. al. Nat. Methods 11 (2014) 333-337.
 
 */
 
