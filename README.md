@@ -33,7 +33,7 @@ Attention:
 
 References:
 
-[1] M Hao, et al., Improved prediction of drug-target interactions using regularized least squares integrating with kernel fusion technique. Analytica Chimica Acta (submitted)
+[1] M Hao, et al., Improved prediction of drug-target interactions using regularized least squares integrating with kernel fusion technique. Analytica Chimica Acta (accepted)
 
 [2] JP Mei, et al., Bioinformatics 29 (2013) 238-245.
 
