@@ -11,11 +11,11 @@ How To Run:
   gpcr_simmat_dg.txt, ic_admat_dgc.txt, ic_simmat_dc.txt, ic_simmat_dg.txt, nr_admat_dgc.txt,
   nr_simmat_dc.txt, nr_simmat_dg.txt]
  
-(2) Compile the *.cpp files. For example, on Windows 7, one can use 'Rtools: https://cran.r-project.org/bin/windows/Rtools/'.
+(2) Compile the *.cpp files. For example, on Windows 7, one can use 'Rtools: https://cran.r-project.org/bin/windows/Rtools/'
 
-(3) Install required packages.
+(3) Install required packages
 
-(4) setwd("dir including source codes").
+(4) setwd("dir including source codes")
 
 (5) source("demo-RLS_KF.R") 
  
