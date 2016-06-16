@@ -3,7 +3,7 @@ and Kernel Fusion [3] technique.
 
 How To Run:
 
-(1) Download benchmark data sets from http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/ [4].
+(1) Download benchmark data sets from http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/ [4]
   
   Total 12 files:
  
